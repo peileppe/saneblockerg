@@ -153,10 +153,6 @@ class Player(Block):
             tmp.rect.x -= self.dir_horizontal
         elif action==pygame.K_SPACE:
             self.depose(screen, background)
-        elif action==pygame.K_r: # redraw
-            for b2 in list_blocks:
-                if b2.destructible:
-                    b2.draw(screen)
         " There's a move then we check for collision "
         if tmp.rect.x != self.rect.x or tmp.rect.y!= self.rect.y:
             objectrects = []        
