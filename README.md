@@ -1,7 +1,7 @@
 # saneblockerg
 Automatically exported from code.google.com/p/saneblockerg
 
-=Sane Blocker G=
+##Sane Blocker G
 
 A python game using the *pygame* library (my first game with Pygame)
 
@@ -10,7 +10,7 @@ To run the game pygame is required
 
 The game is running in a 640x640 area - sprites are 16x16 provided in the source/data folder
 
-==Instructions:==
+##Instructions:
 
 With the help of your 'avatar' [https://saneblockerg.googlecode.com/hg/source/data/avatr.png] you can move around and create blocks [https://saneblockerg.googlecode.com/hg/source/data/block1.png] (by pressing space bar) and then 'block' the bouncing balls [https://saneblockerg.googlecode.com/hg/source/data/ball.png].
 
