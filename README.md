@@ -12,10 +12,10 @@ The game is running in a 640x640 area - sprites are 16x16 provided in the source
 
 ##Instructions:
 
-With the help of your 'avatar' [https://saneblockerg.googlecode.com/hg/source/data/avatr.png] you can move around and create blocks [https://saneblockerg.googlecode.com/hg/source/data/block1.png] (by pressing space bar) and then 'block' the bouncing balls [https://saneblockerg.googlecode.com/hg/source/data/ball.png].
+With the help of your 'avatar' ![av](https://saneblockerg.googlecode.com/hg/source/data/avatr.png) you can move around and create blocks ![bk](https://saneblockerg.googlecode.com/hg/source/data/block1.png) (by pressing space bar) and then 'block' the bouncing balls ![bl](https://saneblockerg.googlecode.com/hg/source/data/ball.png).
 
-NB : There are 2 kinds of blocks - destructible [https://saneblockerg.googlecode.com/hg/source/data/block.png] or not [https://saneblockerg.googlecode.com/hg/source/data/block1.png]
+NB : There are 2 kinds of blocks - destructible ![de](https://saneblockerg.googlecode.com/hg/source/data/block.png) or not ![nd](https://saneblockerg.googlecode.com/hg/source/data/block1.png)
 
 There's even a demo https://code.google.com/p/saneblockerg/wiki/demo
 
-[https://saneblockerg.googlecode.com/hg/source/screenshots/score-block3.png]
+![de](https://saneblockerg.googlecode.com/hg/source/screenshots/score-block3.png)
