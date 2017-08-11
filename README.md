@@ -19,3 +19,6 @@ NB : There are 2 kinds of blocks - destructible ![de](https://saneblockerg.googl
 There's even a demo https://code.google.com/p/saneblockerg/wiki/demo
 
 ![de](https://saneblockerg.googlecode.com/hg/source/screenshots/score-block3.png)
+
+
+http://www.youtube.com/watch?feature=player_embedded&v=uJm_rOQ0MB8' target='_blank'>http://img.youtube.com/vi/uJm_rOQ0MB8/0.jpg' width='425' height=344 />
